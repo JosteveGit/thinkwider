@@ -7,4 +7,4 @@ The code for the projects can be found in the following links:
 
 - [hello.cpp](./code/api/hello.cpp)
 - [mod_hello.c](./code/api/mod_hello.c)
-- [flutter app](./code/app)
+- [flutter app](./code/app/thinkwider/)
