@@ -1,7 +1,7 @@
 The documentation for the answers can be found in the following links:
 
-- [Question 1](./documentation/q1.md)
-- [Question 2](./documentation/q2.md)
+- [Question 1](./documentation/Q1.md)
+- [Question 2](./documentation/Q2.md)
 
 The code for the projects can be found in the following links:
 
